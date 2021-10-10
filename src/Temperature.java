@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
-public class Temprature {
+public class Temperature {
 
     public static void main(String[] args) {
+
         System.out.println("------------------------Welcome-------------------");
         System.out.println("---Celsius-Fahrenheit/Fahrenheit-Celsius convertor---");
         System.out.println("Choose the conversion mode: ");
@@ -43,9 +44,6 @@ public class Temprature {
         }
 
     }
-
-
-
 
 
 
